@@ -12,4 +12,4 @@ sanrio &amp; pink BetterDiscord theme, for the aesthetic cuties out there
 - Profit
   
 ### Licensing
-This theme is licensed under the MIT license. Please refer to the [LICENSE](./LICENSE) file for more details regarding rigths and limitations.
+This theme is licensed under the MIT license. Please refer to the [LICENSE](./LICENSE) file for more details regarding rights and limitations.
