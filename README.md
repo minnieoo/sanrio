@@ -1,5 +1,5 @@
 # sanrioPink
-sanrio &amp; pink BetterDiscord theme, for the aesthetic cuties out there
+🌺 sanrio &amp; pink BetterDiscord theme, for the aesthetic cuties out there 🌺
 
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
 - [Direct Download](https://betterdiscord.app/Download?id=144)
