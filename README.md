@@ -2,7 +2,7 @@
 🌺 sanrio &amp; pink BetterDiscord theme, for the aesthetic cuties out there 🌺
 
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
-- [Direct Download](https://betterdiscord.app/Download?id=144)
+- [Direct Download](betterdiscord.app)
 
 ### Installation Guide
 - Download the `sanrioPink.theme.css` file
