@@ -1,8 +1,9 @@
 # sanrioPink
+NOTE: THIS IS UNFINISHED AND ABANDONED AS OF NOW
 🌺 sanrio &amp; pink BetterDiscord theme, for the aesthetic cuties out there 🌺
 
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
-- [Direct Download]([betterdiscord.app](https://betterdiscord.app/))
+
 
 ### Installation Guide
 - Download the `sanrioPink.theme.css` file
